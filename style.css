@@ -1,3 +1,9 @@
 h1 {
 	color: aqua;
 }
+
+div {
+	width: 100px;
+	height: 200px;
+	background-color: blue;
+}
